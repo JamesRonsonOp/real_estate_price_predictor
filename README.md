@@ -105,11 +105,11 @@ https://www.researchgate.net/post/Do_we_need_to_standardize_variables_with_diffe
 * This rating evaluates the quality of the material on the exterior. There is a strong positive relationship between having high end materials on the exterior of the home and selling a home for higher prices. 
 
 #### Kitchen Quality
-* Kitchen quality was mentioned in a number of outside sources as being a top source for increasing home value. This is notion is supported by the correlation analysis as kitchen ranks high among correlated featurs as having the most positive relationship with saleprice. 
+* Kitchen quality was mentioned in a number of outside sources as being a top source for increasing home value. This notion is supported by the correlation analysis as kitchen ranks high among correlated features as having the most positive relationship with saleprice. 
 
 #### Basement Quality
 * There are three ordinal metrics that have a fairly strong correlation with sale price. Based on the regression plot and the correlation matrix the Basement Quality Rating (Which actually measures basement height) appears to be strongest among the three correlated basement ratings. 
-* The Basement Exposure Rating which measures the amount of exposure the basement has to the outside sees sales pricing rise as exposure to the outside increases. This could be partially explained by many homeshoppers interests in natural light in their living spaces. 
+* The Basement Exposure Rating which measures the amount of exposure the basement has to the outside world sees sales pricing rise as exposure to the outside increases. This could be partially explained by many homeshoppers interests in natural light in their living spaces. 
 * The latter rating is based on finish type (which measures livability). Homes that have a basement that are completely livable can be sold for higher prices than homes that have either no basement or are unfinished. 
 * If you are looking to find a selling feature in a home look for features that include high basement ceilings, exposure to the outside and livable space. This follows the heuristic that people generally like open floor plans and spaces in their homes. 
 
